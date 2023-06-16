@@ -1,2 +1,6 @@
 # RockbusterStealthSQL
-Hired as a data analyst by Rockbuster Stealth's business intelligence department to help with the launch strategy for the new online video service.
+Data Analysis project conducted in SQL for Career Foundry Data Analytics program. Rockbuster Stealth's business intelligence department needs help with the launch strategy for the new online video service.
+
+## Objective
+![image](https://github.com/skesic/RockbusterStealthSQL/assets/77510959/624cbffd-377b-4a2a-bf0d-32672ce54520)
+
