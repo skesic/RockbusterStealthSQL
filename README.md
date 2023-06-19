@@ -26,7 +26,7 @@ Data Analysis project conducted in PostgreSQL for Career Foundry Data Analytics 
      - city
      - country
        
-    Open source data, link to [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+    - Open source data, link to [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
   ## Tools
   For this project, PostgreSQL was used.
