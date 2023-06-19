@@ -25,9 +25,15 @@ Data Analysis project conducted in PostgreSQL for Career Foundry Data Analytics 
      - language
      - city
      - country
+    Open source data, link to [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
   ## Tools
   For this project, PostgreSQL was used.
   DBVisualizer was used to extract the entity relationship diagram for a relational database.
+
+  ## Presentations
+  - link to [Tableau Public](https://public.tableau.com/app/profile/sanja1971/viz/RockbusterStealthLLCSalesAnalysis/RockbusterStealthLLCSalesAnalysis?publish=yes)
+  - link to [Power Point presentation](C:\Users\Asus\OneDrive\Documents\Data Analytics\Data Immersion\3. Databases & SQL for Analysts\3.10. Presenting SQL Results\SK_Rockbuster Stealth LLC Sales Analysis.pptx")
+
   
 
