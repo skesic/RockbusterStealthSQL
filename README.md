@@ -7,6 +7,8 @@ Data Analysis project conducted in PostgreSQL for Career Foundry Data Analytics 
   Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from other streaming services, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service to stay competitive. The objective of this study is to help Rockbuster Stealth's business intelligence (BI) department with the launch strategy for the new online video service.
   
   ## Data
+  Open source data, link to [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+  
   The database comprises information on the following parameters:
   1. Fact Tables:
      - payment
@@ -26,8 +28,6 @@ Data Analysis project conducted in PostgreSQL for Career Foundry Data Analytics 
      - city
      - country
        
-    - Open source data, link to [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
-
   ## Tools
   For this project, PostgreSQL was used.
   DBVisualizer was used to extract the entity relationship diagram for a relational database.
