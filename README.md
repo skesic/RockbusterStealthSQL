@@ -33,7 +33,7 @@ Data Analysis project conducted in PostgreSQL for Career Foundry Data Analytics 
 
   ## Presentations
   - link to [Tableau Public](https://public.tableau.com/app/profile/sanja1971/viz/RockbusterStealthLLCSalesAnalysis/RockbusterStealthLLCSalesAnalysis?publish=yes)
-  - link to [Power Point presentation](C:\Users\Asus\OneDrive\Documents\Data Analytics\Data Immersion\3. Databases & SQL for Analysts\3.10. Presenting SQL Results\SK_Rockbuster Stealth LLC Sales Analysis.pptx")
+  - link to [Power Point presentation](https://github.com/skesic/RockbusterStealthSQL/blob/main/Rockbuster%20Stealth%20LLC%20sales%20analysis%20presentation.pdf)
 
   
 
